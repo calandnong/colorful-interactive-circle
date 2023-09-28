@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",     
+    "type": "git",
     "url": "git+https://github.com/calandnong/colorful-interactive-circle.git"
   },
   "keywords": [],
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/calandnong/colorful-interactive-circle/issues"
   },
-  "homepage": "https://github.com/calandnong/colorful-interactive-circle#readme"
+  "homepage": "https://github.com/calandnong/colorful-interactive-circle#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
