@@ -63,6 +63,12 @@ importers:
       vite: 4.1.4
       vue-tsc: 1.8.15_typescript@4.9.5
 
+  packages/components:
+    specifiers:
+      vue: ^3.2.45
+    dependencies:
+      vue: 3.3.4
+
   packages/server:
     specifiers:
       '@nestjs/cli': ^10.0.0
