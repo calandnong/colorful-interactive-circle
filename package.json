@@ -1,0 +1,23 @@
+{
+  "name": "colorful-interactive-circle",
+  "version": "1.0.0",
+  "description": "An MVP version of community mini program.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",     
+    "url": "git+https://github.com/calandnong/colorful-interactive-circle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calandnong/colorful-interactive-circle/issues"
+  },
+  "homepage": "https://github.com/calandnong/colorful-interactive-circle#readme"
+}
